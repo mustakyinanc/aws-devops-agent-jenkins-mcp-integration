@@ -40,8 +40,8 @@ See the full walkthrough in [step-by-step-guide.md](step-by-step-guide.md).
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR-USERNAME/devops-agent-jenkins-mcp-integration.git
-cd devops-agent-jenkins-mcp-integration
+git clone https://github.com/mustakyinanc/aws-devops-agent-jenkins-mcp-integration.git
+cd aws-devops-agent-jenkins-mcp-integration
 ```
 
 **2. Set up environment variables**
@@ -80,7 +80,7 @@ Full instructions in [step-by-step-guide.md](step-by-step-guide.md).
 ## Project structure
 
 ```
-devops-agent-jenkins-mcp-integration/
+aws-devops-agent-jenkins-mcp-integration/
 ├── .gitignore
 ├── .env.example                # Environment variables template
 ├── README.md
